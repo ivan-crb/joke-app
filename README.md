@@ -1,6 +1,9 @@
-// npm install -g eas-cli
-// To build .apk (https://docs.expo.dev/build/setup/)
-// eas build -p android
+
+[Instructions to build .apk](https://docs.expo.dev/build/setup/)
+
+Reference docs: https://docs.expo.dev/build-reference/apk/
 
 
-// https://docs.expo.dev/build-reference/apk/
+`npm install -g eas-cli`
+
+`eas build -p android`
